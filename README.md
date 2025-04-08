@@ -1,2 +1,3 @@
 # voidslash.github.io
-Company Website
+
+Static Company Website
